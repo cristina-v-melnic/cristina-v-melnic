@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cristina-v-melnic
 - 👀 I’m interested in computational neuroscience, physics and data science.
 - 🌱 I’m currently doing courses on machine learning.
-- 💞️ I’m looking for a research position in computational neuroscience and/or an internship in data science.
+- 💞️ I’m looking for a research position in computational neuroscience and/or an internship in data science/machine learning.
 - 📫 How to reach me: cristina.v.melnic@gmail.com
 
 <!---
