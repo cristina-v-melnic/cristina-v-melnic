@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristina-v-melnic
-- 👀 I’m interested in computational neuroscience, physics and data science.
+- 👀 I’m interested in computational neuroscience, physics, and data science.
 - 🌱 I’m currently tackling topics in machine learning.
 - 💞️ I’m looking for a research position in computational neuroscience
 
