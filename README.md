@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristina-v-melnic
 - 👀 I’m interested in machine learning, deep learning and data science.
-- 🌱 I’m currently tackling topics advanced ai topics at Data Science Retreat Berlin.
+- 🌱 I’m currently tackling advanced ai topics at Data Science Retreat Berlin.
 
 - 📫 How to reach me: cristina.v.melnic@gmail.com
 
