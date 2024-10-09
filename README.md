@@ -7,7 +7,7 @@
 ## Project Portfolio
 To find out more about my work, check out the following repos:
 
-- Ucoming: Dancebits - use ai to learn dance choreography
+- Ucoming: Dancebits - use ai to learn dance choreography ([DSR](https://datascienceretreat.com/) project based on the research of [Koki et al. 2024](https://arxiv.org/abs/2405.19727))
 - [How connectivity of orientation selective neurons in V1 influence network properties](https://github.com/cristina-v-melnic/neural-orientation-tuning)
 - [Research on numerical methods for Navier-Stokes equations](https://github.com/cristina-v-melnic/stokes-dg-figures)
 - [Learn force fields from data using Bayesian inference](https://github.com/cristina-v-melnic/force-inference)
