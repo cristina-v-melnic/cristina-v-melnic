@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 - 👋 Hi, I’m Cristina @cristina-v-melnic
 - :boom: I’m currently exloring advanced topics in data science, and machine/deep learning.
 - :sparkles: I am a huge science enthusiast specialised in physics.
