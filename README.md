@@ -7,11 +7,11 @@
 ## Projects Portfolio
 To find out more about my work, check out the following repos:
 
-- Ucoming: Dancebits - use ai to learn dance choreography ([DSR](https://datascienceretreat.com/) project based on the research of [Koki et al. 2024](https://arxiv.org/abs/2405.19727))
-- [How connectivity of orientation selective neurons in V1 influence network properties](https://github.com/cristina-v-melnic/neural-orientation-tuning)
-- [Research on numerical methods for Navier-Stokes equations](https://github.com/cristina-v-melnic/stokes-dg-figures)
-- [Learn force fields from data using Bayesian inference](https://github.com/cristina-v-melnic/force-inference)
-- [Numerical ins and outs of models for patterns on animal fur coats](https://github.com/cristina-v-melnic/pattern-formation)
+- :dancer: Ucoming: Dancebits - use ai to learn dance choreography ([DSR](https://datascienceretreat.com/) project based on the research of [Koki et al. 2024](https://arxiv.org/abs/2405.19727))
+- :skull: [How connectivity of orientation selective neurons in V1 influence network properties](https://github.com/cristina-v-melnic/neural-orientation-tuning)
+- :ocean: [Research on numerical methods for Navier-Stokes equations](https://github.com/cristina-v-melnic/stokes-dg-figures)
+- :microscope: [Learn force fields from data using Bayesian inference](https://github.com/cristina-v-melnic/force-inference)
+- :tiger2: [Numerical ins and outs of models for patterns on animal fur coats](https://github.com/cristina-v-melnic/pattern-formation)
 
 
 
