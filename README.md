@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Cristina @cristina-v-melnic
 - :boom: I’m currently venturing into advanced topics in data science and machine/deep learning.
 - :sparkles: I am a huge science enthusiast specialised in physics.
-- 📫 How to reach me: cristina.v.melnic@gmail.com
+- 📫 Don't hesitate to contact me at: cristina.v.melnic@gmail.com
 
 ## Projects Portfolio
 To find out more about my work, check out the following repos:
