@@ -7,7 +7,7 @@
 ## Projects Portfolio
 To find out more about my work, check out the following repos:
 
-- :dancer: *Upcoming in public*: [Dancebits](https://github.com/dance-segmentation) - use ai to learn dance choreography ([DSR](https://datascienceretreat.com/) project based on the research of [Koki et al. 2024](https://arxiv.org/abs/2405.19727))
+- :dancer: Dancebits - use ai to learn dance choreography ([DSR](https://datascienceretreat.com/) project based on the research of [Koki et al. 2024](https://arxiv.org/abs/2405.19727)), [feature engineering repo](https://github.com/dance-segmentation/dancebits-preprocessing), [description post](https://cristinamelnic.com/projects/dancebits), and [api repo](https://github.com/dance-segmentation/dance-bits-api)
 - :skull: [How connectivity of orientation selective neurons in V1 influence network properties](https://github.com/cristina-v-melnic/neural-orientation-tuning)
 - :ocean: [Research on numerical methods for Navier-Stokes equations](https://github.com/cristina-v-melnic/stokes-dg-figures)
 - :microscope: [Learn force fields from data using Bayesian inference](https://github.com/cristina-v-melnic/force-inference)
